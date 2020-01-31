@@ -4,7 +4,7 @@
 :root {
   --primary-color: #dc3545;
   --dark-color: #333333;
-  --light-color: #f4f4f4;
+  --light-color: #e0e0e0;
   --danger-color: #dc3545;
   --success-color: #28a745;
 }
@@ -19,7 +19,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #fff;
+  background-color: whitesmoke;
   color: #333;
 }
 
@@ -112,7 +112,7 @@ img {
 /* Cards */
 .card {
   padding: 1rem;
-  border: #ccc 1px dotted;
+  border: #ccc 1px solid;
   margin: 0.7rem 0;
 }
 
